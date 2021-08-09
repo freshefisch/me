@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gurkenjaeger13
 - 👀 I’m interested in coding (Python and HTML & CSS) and music
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning different coding languages
 - 📫 How to reach me: Contact me on Discord: gurkenjaeger13#2865
 
 <!---
